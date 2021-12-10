@@ -6,3 +6,5 @@ var humanAge = 21;
 
 var isHappy = true;
 var isEnergetic = true;
+
+var colors = ['Black', 'Brown', 'White'];
